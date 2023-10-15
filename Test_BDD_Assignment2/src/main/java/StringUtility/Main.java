@@ -1,8 +1,8 @@
-package StringUtilize;
+package StringUtility;
 
 public class Main {
     public static void main(String[] args) {
-        Reverse reverse = new Reverse();
+        StringUtility reverse = new StringUtility();
         //System.out.println(reverse.backwards("Hello"));
     }
 }
